@@ -177,14 +177,13 @@ python hybrid_recommender.py
 
 ---
 
-## 📁 Proje Yapısı / Project Structure
+[## 📁 Proje Yapısı / Project Structure
 
 ```
-hybrid-recommender-system/
-├── hybrid_recommender.py   # Ana kod / Main code
-├── README.md               # Proje açıklaması / Project description
-└── requirements.txt        # Gereksinimler / Dependencies
-```
+## 📥 Veri Seti / Dataset
+
+[📎 [Kaggle'dan indir / Download from Kaggle](https://www.kaggle.com/datasets/senin-kullanici-adin/armut-service-dataset)
+](https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)```
 
 
 
