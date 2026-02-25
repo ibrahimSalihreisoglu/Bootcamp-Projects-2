@@ -162,7 +162,7 @@ The dataset provided by MovieLens contains 20,000,263 ratings across 138,493 use
 
 ### Technologies Used
 
-- Python 3
+- Python 
 - Pandas
 
 ### How to Run
@@ -176,7 +176,7 @@ python hybrid_recommender.py
 ---
 
 
-```
+
 ## 📥 Veri Seti / Dataset
 
 📎 [Movie Veri Setleri - Kaggle](https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)
