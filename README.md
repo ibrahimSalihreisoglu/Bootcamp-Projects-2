@@ -180,8 +180,7 @@ python hybrid_recommender.py
 ```
 ## 📥 Veri Seti / Dataset
 
-[📎 [Kaggle'dan indir / Download from Kaggle](https://www.kaggle.com/datasets/senin-kullanici-adin/armut-service-dataset)
-](https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)```
+📎 (https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)
 
 
 
