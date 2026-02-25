@@ -177,7 +177,6 @@ python hybrid_recommender.py
 
 ---
 
-[## 📁 Proje Yapısı / Project Structure
 
 ```
 ## 📥 Veri Seti / Dataset
