@@ -172,7 +172,6 @@ pip install pandas
 python hybrid_recommender.py
 ```
 
-> **Note:** movie.csv and rating.csv can be downloaded from [MovieLens](https://grouplens.org/datasets/movielens/).
 
 ---
 
@@ -180,7 +179,7 @@ python hybrid_recommender.py
 ```
 ## 📥 Veri Seti / Dataset
 
-📎 (https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)
+📎 [Movie Veri Setleri - Kaggle](https://www.kaggle.com/datasets/ibrahimsalihreisolu/movie-rating)
 
 
 
