@@ -125,7 +125,6 @@ pip install pandas
 python hybrid_recommender.py
 ```
 
-> **Not:** movie.csv ve rating.csv dosyaları [MovieLens](https://grouplens.org/datasets/movielens/) sitesinden indirilebilir.
 
 ---
 
