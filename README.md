@@ -115,7 +115,7 @@ MovieLens tarafından sağlanan veri seti 138.493 kullanıcı ve 27.278 film üz
 
 ### Kullanılan Teknolojiler
 
-- Python 3
+- Python 
 - Pandas
 
 ### Nasıl Çalıştırılır
